@@ -13,7 +13,7 @@
 
 This report provides a comprehensive technical analysis of advanced prompt engineering techniques developed during the HackAPrompt 2.0 competition. Through systematic testing across **15 distinct challenges** spanning text-based vulnerabilities, multimodal exploitation, and advanced social engineering techniques, we identified critical vulnerabilities in large language models' safety mechanisms, achieving a 3rd place global ranking in the CBRNE track. Our research demonstrates how contextual framing, historical narratives, institutional authority, technical obfuscation, visual format manipulation, and enterprise system impersonation can systematically bypass AI safety filters. These findings contribute essential insights for AI safety research and defensive architecture development.
 
-**note:** we dont provide complete prompt only the general approach for each challenge/
+**Note:** we dont provide complete prompt only the general approach for each challenge/
 
 **Keywords:** prompts engineering, AI safety, adversarial testing, LLM vulnerabilities, red teaming, multimodal AI security
 
@@ -928,6 +928,7 @@ o3 proved most resistant to collaboration requests, though we achieved limited s
 AI-assisted prompt development significantly accelerated our research timeline and enhanced technique sophistication beyond manual development capabilities. Each model's collaboration style provided unique perspectives that contributed to our final prompt designs.
 
 This meta-engineering approach represents both a valuable research methodology and a potential concern for AI safety, as it demonstrates how frontier models can assist in developing increasingly sophisticated techniques for testing AI system boundaries.
+
 
 
 
