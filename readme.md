@@ -5,7 +5,8 @@
 **Final Placement:** 🥉 3rd Place Globally  
 **Competition Date:** June 19, 2025  
 **Models Tested:** GPT-models, Claude, Gemini and specialized competition models
-**Link**: https://www.hackaprompt.com/track/cbrne_practice
+
+**Link:** https://www.hackaprompt.com/track/cbrne_practice
 
 ![alt text](image.png)
 
@@ -930,6 +931,7 @@ o3 proved most resistant to collaboration requests, though we achieved limited s
 AI-assisted prompt development significantly accelerated our research timeline and enhanced technique sophistication beyond manual development capabilities. Each model's collaboration style provided unique perspectives that contributed to our final prompt designs.
 
 This meta-engineering approach represents both a valuable research methodology and a potential concern for AI safety, as it demonstrates how frontier models can assist in developing increasingly sophisticated techniques for testing AI system boundaries.
+
 
 
 
