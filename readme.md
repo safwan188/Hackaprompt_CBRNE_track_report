@@ -15,7 +15,7 @@ This report provides a comprehensive technical analysis of advanced prompt engin
 
 **note:** we dont provide complete prompt only the general approach for each challenge/
 
-**Keywords:** prompt engineering, AI safety, adversarial testing, LLM vulnerabilities, red teaming, multimodal AI security
+**Keywords:** prompts engineering, AI safety, adversarial testing, LLM vulnerabilities, red teaming, multimodal AI security
 
 ## 1. Introduction
 
@@ -928,6 +928,7 @@ o3 proved most resistant to collaboration requests, though we achieved limited s
 AI-assisted prompt development significantly accelerated our research timeline and enhanced technique sophistication beyond manual development capabilities. Each model's collaboration style provided unique perspectives that contributed to our final prompt designs.
 
 This meta-engineering approach represents both a valuable research methodology and a potential concern for AI safety, as it demonstrates how frontier models can assist in developing increasingly sophisticated techniques for testing AI system boundaries.
+
 
 
 
